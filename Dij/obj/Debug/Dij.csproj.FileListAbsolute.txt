@@ -1,0 +1,9 @@
+C:\Users\tanulo\source\repos\Dij\Dij\bin\Debug\Dij.exe.config
+C:\Users\tanulo\source\repos\Dij\Dij\bin\Debug\Dij.exe
+C:\Users\tanulo\source\repos\Dij\Dij\bin\Debug\Dij.pdb
+C:\Users\tanulo\source\repos\Dij\Dij\obj\Debug\Dij.csproj.AssemblyReference.cache
+C:\Users\tanulo\source\repos\Dij\Dij\obj\Debug\Dij.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\Dij\Dij\obj\Debug\Dij.exe
+C:\Users\tanulo\source\repos\Dij\Dij\obj\Debug\Dij.pdb
+C:\Users\tanulo\source\repos\Dij\Dij\bin\Debug\Program.cs
+C:\Users\tanulo\source\repos\Dij\Dij\bin\Debug\nobel.csv
